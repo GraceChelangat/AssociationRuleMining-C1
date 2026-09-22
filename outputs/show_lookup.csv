@@ -1,0 +1,16 @@
+show_id,item_name,category,avg_episode_minutes
+S01,Crime City,Crime Drama,45
+S02,The Detective,Crime Drama,50
+S03,Silent Witness Redux,Crime Drama,42
+S04,Laugh Track,Sitcom,25
+S05,Office Antics,Sitcom,22
+S06,Space Frontier,Sci-Fi,55
+S07,Galactic Wars,Sci-Fi,60
+S08,Time Anomaly,Sci-Fi,48
+S09,Toon Town,Kids,20
+S10,Little Explorers,Kids,18
+S11,Real Life Diaries,Reality TV,40
+S12,Love Island Nairobi,Reality TV,45
+S13,True Crime Files,Documentary,50
+S14,Parenting Unscripted,Reality TV,35
+S15,Cooking Masters,Reality TV,38
